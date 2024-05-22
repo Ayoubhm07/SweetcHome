@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "cocogoose";
+  src: url("../public/assets/fonts/cocogoose/Cocogoose-Pro-Light-trial.ttf");
+}
+@font-face {
+  font-family: "cocogoosebold";
+  src: url("../public/assets/fonts/cocogoose/Cocogoose-Pro-Bold-trial.ttf");
+}
+
+@font-face {
+  font-family: "cairo";
+  src: url("../public/assets/fonts/Cairo Regular 400.ttf");
+}
